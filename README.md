@@ -67,7 +67,7 @@ datacans-analytics/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/datacans-analytics.git
+git clone https://github.com/ahmedbeing/datacans-analytics.git
 cd datacans-analytics
 
 python -m venv venv
@@ -76,4 +76,4 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run app.py
-Open your browser and navigate to http://localhost:8501
+Open your browser and navigate to http://localhost:????
